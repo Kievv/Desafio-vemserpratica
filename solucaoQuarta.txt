@@ -1,0 +1,5 @@
+Ex. 4
+
+Levando em consideração a lógica e apenas a lógica, no exato momento em que se encontrarem/cruzarem na rodovia, ambos estarão à mesma distância de Ribeirão Preto.
+
+Pode-se argumentar, caso também queira levar em consideração os tamanhos dos veículos , que no momento em que a ponta do carro e a ponta do caminhão se encontrarem, considerando que o carro vem de Ribeirão Preto, a parte traseira do carro estaria mais próxima de Ribeirão Preto do que qualquer parte do caminhão.
